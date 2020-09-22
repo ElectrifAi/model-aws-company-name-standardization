@@ -8,4 +8,6 @@ Leveraging 1st and 3rd party data, standardize and cleanse the common problem of
 
 SKU: STAND-PT-PCM-AWS-001
 
-AWS SageMaker:  https://aws.amazon.com/marketplace/pp/prodview-vf7wfyhrcx25y (To be updated)
+AWS SageMaker:  https://aws.amazon.com/marketplace/pp/prodview-u3ulp66nkkyqe
+
+
