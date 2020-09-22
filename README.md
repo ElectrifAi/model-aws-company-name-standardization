@@ -1,11 +1,11 @@
 # Contract Clause Extraction
 
 ## Description
-Extract key information and clauses from contracts through our Contract Clause Extraction algorithm
+Remove the need for manual data cleansing with our "Company Name" standardization algorithm
 
 ## Product Overview
-Leveraging training data from thousands of contracts to properly identify and extract pertinent information, such as Assignment, Limitation of Liability, Termination for Cause, and Governing Law, this algorithm streamlines the review of contracts. The model utilizes semantic extraction to identify clauses, not a keyword search.
+Leveraging 1st and 3rd party data, standardize and cleanse the common problem of company name variability. Regardless of acronyms, acquisitions, or other company evolutions, this algorithm will create a uniform naming convention for company names in your data.
 
-SKU:  CCEXT-PT-PCM-AWS-001
+SKU: STAND-PT-PCM-AWS-001
 
-AWS SageMaker:  https://aws.amazon.com/marketplace/pp/prodview-vf7wfyhrcx25y
+AWS SageMaker:  https://aws.amazon.com/marketplace/pp/prodview-vf7wfyhrcx25y (To be updated)
