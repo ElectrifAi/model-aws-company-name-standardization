@@ -1,4 +1,4 @@
-# Contract Clause Extraction
+# Company Name Standardization
 
 ## Description
 Remove the need for manual data cleansing with our "Company Name" standardization algorithm
